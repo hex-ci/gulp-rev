@@ -41,7 +41,8 @@
     "test": "xo && mocha"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "rev-path.js"
   ],
   "keywords": [
     "gulpplugin",
